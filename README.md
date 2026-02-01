@@ -9,7 +9,7 @@ In **In a Hurry**, you have **60 seconds** to rob a bank!
 
 ## Screenshots
 Check out some screenshots of the game here:  
-[Screenshot 1](https://github.com/JannesWendelken/In-a-Hurry-Game/tree/main/Screenshots)
+[Screenshots](https://github.com/JannesWendelken/In-a-Hurry-Game/tree/main/Screenshots)
 
 ---
 
